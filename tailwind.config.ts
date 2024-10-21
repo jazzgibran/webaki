@@ -9,8 +9,13 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        'midnavy': '#134b70',
+        'navy': '#201e43',
+        'tosca':'#508c9b',
+        'cyan':'#9bebff'
+      },
+      fontFamily: {
+        mont: ["var(--font-mont)"],
       },
     },
   },

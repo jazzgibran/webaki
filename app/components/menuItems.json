@@ -1,0 +1,37 @@
+{
+    "aki": [
+        {
+            "title": "AKI MOBIL",
+            "description": "Kopi pekat yang disajikan dalam takaran kecil untuk rasa yang kuat dan intens.",
+            "img": "https://asset-2.tstatic.net/tribunnews/foto/bank/images/aki-mobil___.jpg"
+            
+        },
+        {
+            "title": "AKI MOTOR",
+            "description": "Kopi dengan tambahan gula aren asli, memberikan rasa manis alami dan aroma khas.",
+            "img": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/41c5de7a130d421f9b6608a919e71295.jpg"
+        },
+        {
+            "title": "AKI BUS",
+            "description": "Kopi robusta lokal dengan cita rasa yang kuat dan penuh, cocok untuk memulai hari.",
+            "img": "https://setoakisolo.com/wp-content/uploads/2024/05/aki-bus-1.jpg"
+        },
+        {
+            "title": "AKI TRUCK",
+            "description": "Kopi dengan perpaduan rasa hazelnut yang manis dan aroma yang menggoda.",
+            "img": "https://yosualogistik.co.id/wp-content/uploads/2023/01/6.-Pastikan-Memilih-Tipe-Aki-Truk-Engkel-yang-Tepat-300x300.webp"
+        },
+        {
+            "title": "AKI GENSET",
+            "description": "Kopi susu dengan tambahan krim kental, memberikan tekstur lembut dan rasa mewah.",
+            "img": "https://intergengenset.com/wp-content/uploads/2023/08/aki-genset.jpg"
+        },
+        {
+            "title": "AKI ALAT BERAT",
+            "description": "Perpaduan unik antara Milo dan kopi, ditambah krim untuk rasa yang kaya dan berlapis.",
+            "img": "https://www.suzuki.co.id/uploads/image/penyebab_aki_mobil_tekor.webp"
+        }
+    ]
+   
+}
+
