@@ -27,7 +27,7 @@ src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31917.470696942735!2d
           <div className="md:w-1/3 flex flex-col items-center">
             <h3 className="text-xl md:text-2xl font-semibold mb-4">Telepon dan WA</h3>
             <div className="gap-2 flex items-start flex-col">
-                <div className="flex items-center justify-center"><FontAwesomeIcon className='w-5 mr-2' icon={faPhone} /> <p>082121212121</p></div>
+                <div className="flex items-center justify-center"><FontAwesomeIcon className='w-5 mr-2' icon={faPhone} /> <p>085247712014</p></div>
                 <div className="flex items-center justify-center"><FontAwesomeIcon icon={faSquareWhatsapp} className="w-5 mr-2" /> <a href="https://wa.link/mwngy4" ><p>wa.link/abcde</p></a></div>
               
             </div>
