@@ -15,8 +15,9 @@ const Navbar = () => {
   className="p-4 ws z-20 absolute top-0 w-full"
 >
   {/* Main Navbar Content */}
+  <img className="absolute w-24 md:w-44 object-cover object-center" src={"/assets/img/logoaki.png"} alt="" />
   <div className={`max-w-7xl mx-auto flex justify-center items-center relative`}>
-    
+  
     
     <ul className={`flex relative`}>
       <NavItem to="#" text="Home" />

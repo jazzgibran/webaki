@@ -5,7 +5,7 @@ import { faPhone } from '@fortawesome/free-solid-svg-icons'
 
 function Contact() {
   return (
-    <section id="contact" className="py-12 font-mont bg-navy">
+    <section id="contact" className="pt-12 pb-6 font-mont bg-navy">
       <div className="">
         <h2 className="text-3xl text-center font-bold mb-4">KONTAK KAMI</h2>
         <div className="flex flex-col items-center gap-6 justify-center md:flex-row w-9/12 mx-auto ">
@@ -34,7 +34,9 @@ src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31917.470696942735!2d
           </div>
 
         </div>
+        
       </div>
+      <div className="flex items-center justify-center mt-4"><img className=" w-12" src={"/assets/img/logoaki.png"} alt="" /> <p>© 2024 AKI MAX SAMARINDA</p></div>
     </section>
   )
 }
